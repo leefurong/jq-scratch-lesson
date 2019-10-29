@@ -33,6 +33,12 @@
 
 --
 
+## 按s键， 可以打开演讲者视图
+查看教师说明。
+<aside class="notes">Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).</aside>
+
+--
+
 ## picgo插件
 
 用于一键粘贴图片。 快捷方式如下：
