@@ -44,6 +44,14 @@
 
 <iframe data-src="https://kada.163.com/project/3785572-3409211.htm" width="800" height="560" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen=""></iframe>
 
+--
+
+### 步骤
+
+- 第一步{.fragment .fade-up}
+- 第二步{.fragment .fade-up}
+- 第三步{.fragment .fade-up}
+
 ---
 
 ## picgo插件
