@@ -37,7 +37,14 @@
 查看教师说明。
 <aside class="notes">Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).</aside>
 
+
 --
+
+### 演示
+
+<iframe data-src="https://kada.163.com/project/3785572-3409211.htm" width="800" height="560" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen=""></iframe>
+
+---
 
 ## picgo插件
 
